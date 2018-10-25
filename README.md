@@ -35,3 +35,5 @@ Example with verbose logging:
 ```
 $ python3 automatic-slr.py --config default-configuration.ini --log /var/log/automatic-slr/default.log --verbose
 ```
+
+For full documentation consult the wiki here: https://github.com/Mediab0t/automatic-slr/wiki
