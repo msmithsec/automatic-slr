@@ -1,7 +1,7 @@
 # automatic-slr
 A simple script to automatically generate Security Lifecycle Reviews (SLR) 
 
-This script requires Python 3 and the [Requests](http://docs.python-requests.org/en/master/) library to be installed to function correctly.
+This script requires Python 3 and the [Requests](http://docs.python-requests.org/en/master/) and [Logzero](https://logzero.readthedocs.io/en/latest/) libraries to be installed to function correctly.
 
 Two command line arguments are required with an optional argument:
 
